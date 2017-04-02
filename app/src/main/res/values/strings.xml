@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PhotoViewer</string>
+    <string name="slide_1_title">Welcome!</string>
+    <string name="slide_1_desc">Swipe to learn what makes Photo Viewer different</string>
+
+    <string name="slide_2_title">Organized</string>
+    <string name="slide_2_desc">Easy Photo Viewing</string>
+
+    <string name="slide_3_title">Fun</string>
+    <string name="slide_3_desc">Share your Best Moment in Social Media!</string>
+
+    <string name="play_again_desc"></string>
+    <string name="play_again">Play Again</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+
+
+</resources>
